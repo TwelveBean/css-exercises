@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "msedge",
+            "name": "http://127.0.0.1:3000/foundations/intro-to-css/05-descendant-combinator/index.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3000/foundations/intro-to-css/05-descendant-combinator/index.html"
+        }
+    ]
+}
